@@ -4,7 +4,7 @@
 You can schedule tasks for certain dates, mark them as completed, delete those tasks, and all log history is stored on the database
 
 
-  I was given three prerequisites for this project, utilize Django, and Postgres
+  I used the Django framework for this project, and PostgreSQL for my back-end.
 
 
 
